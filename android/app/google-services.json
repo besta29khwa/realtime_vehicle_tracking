@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119518153837",
+    "project_id": "glassy-augury-346520",
+    "storage_bucket": "glassy-augury-346520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119518153837:android:1f5f9fef4fd2094dc48364",
+        "android_client_info": {
+          "package_name": "com.jimmy.realtime_vehicle_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119518153837-097c9sv59dql828k1qb41bk1lin7ioq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifPeUxDQgDiyrgbBbN9t0a28EGFn9bt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119518153837-097c9sv59dql828k1qb41bk1lin7ioq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
