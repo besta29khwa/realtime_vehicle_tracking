@@ -208,10 +208,8 @@ class _LoginPageState extends State<LoginPage> {
                           // ignore: deprecated_member_use
                           child: FlatButton(
                             onPressed: () {
-                            //   print('Forgot Password not implemented');
-                              Navigator.of(context).push(MaterialPageRoute(
-                                  builder: (context) =>
-                                       Mobile()));
+                              print('Forgot Password not implemented');
+                              
                             },
                             padding: EdgeInsets.only(right: 0),
                             child: Text(
