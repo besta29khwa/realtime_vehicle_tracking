@@ -1,8 +1,5 @@
 import 'dart:async';
-
-
 import 'package:flutter/material.dart';
-import 'package:realtime_vehicle_tracking/lib/mymap.dart';
 import 'package:location/location.dart' as loc;
 
 import 'map_page.dart';
